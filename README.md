@@ -1,6 +1,6 @@
 # AWS SQS
 
-This repository contains a simple dummy project I used to learn about queues on AWS.
+This repository contains a simple dummy project I used to learn about queues on AWS. The project uses **producers** and **consumers** to mock two services that need to communicate.
 
 ### Usage
 
